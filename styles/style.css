@@ -97,7 +97,7 @@
   width: 175px;
   line-height: 1.2;
   font-size: 18px;
-  color: #2f80ed
+  color: #2f80ed;
 }
 
 .two-columns__main-text {
@@ -323,7 +323,7 @@
 .footer__column-link {
   list-style: none;
   text-decoration: none;
-  color: #f2f2f2
+  color: #f2f2f2;
 }
 
 .footer__social-icon {
