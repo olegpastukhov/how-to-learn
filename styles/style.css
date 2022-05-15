@@ -7,7 +7,7 @@
 
 .header {
   height: 100vh;
-  min-width: 1300px;
+  min-width: 1100px;
   max-width: 1600px;
   min-height: 600px;
   max-height: 756px;
@@ -43,6 +43,7 @@
   font-size: 102px;
   line-height: 96px;
   font-weight: 700;
+  z-index: 3;
 }
 
 .header__subtitle {
@@ -54,6 +55,7 @@
   width: 388px;
   line-height: 25px;
   font-size: 18px;
+  z-index: 4;
 }
 
 .header__link {
@@ -245,6 +247,7 @@
 .table__cell_theme_dark {
   color: #ffffff;
   width: 200px;
+  margin-top: 80px;
 }
 
 .table__heading_theme_dark {
