@@ -10,11 +10,3 @@
 .rotation {
   animation: rotation 20s linear infinite;
 }
-
-.transition-opacity {
-    transition: 1s linear;
-}
-
-.transition-opacity:hover {
-    opacity: .5;
-}
