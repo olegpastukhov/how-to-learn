@@ -1,6 +1,5 @@
 @import url(../styles/normalize.css);
 @import url(../blocks/rotation/rotation.css);
-@import url(../blocks/transition-opacity/transition-opacity.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__link/header__link.css);
