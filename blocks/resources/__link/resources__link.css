@@ -3,4 +3,9 @@
     height: 38px;
     text-align: center;
     list-style: none;
+    transition: 1s linear;
+}
+
+.resources__link:hover {
+  opacity: .5;
 }
